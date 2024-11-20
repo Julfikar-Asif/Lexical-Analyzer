@@ -5,10 +5,11 @@ This program implements a simple lexical analyzer in C that processes an input s
 # Features 
 
 1. Identifies the following types of tokens:
- <bold> Keywords: Predefined reserved words like int, char, if, return, etc.
-Variables: Valid variable names starting with a letter or underscore (_), followed by alphanumeric characters or underscores.
-Operators: Mathematical and assignment operators like +, -, *, /, %, and =.
-Numbers: Integer or floating-point numbers with optional signs.
-Punctuation: Symbols like ;, ,, (), {}, etc.
-Invalid Tokens: Any unrecognized or improperly formatted token.
+
+    Keywords: Predefined reserved words like int, char, if, return, etc.
+    Variables: Valid variable names starting with a letter or underscore (_), followed by alphanumeric characters or underscores.
+    Operators: Mathematical and assignment operators like +, -, *, /, %, and =.
+    Numbers: Integer or floating-point numbers with optional signs.
+    Punctuation: Symbols like ;, ,, (), {}, etc.
+    Invalid Tokens: Any unrecognized or improperly formatted token.
 
