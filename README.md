@@ -44,4 +44,8 @@ This program implements a simple lexical analyzer in C that processes an input s
 ## Run the program 
 - **`./lexical_analyzer`**
 ## Contributing 
-- Contributions are welcome! Feel free to submit pull requests or report issues to improve the code further.
+- **Contributions** are welcome! Feel free to submit pull requests or report issues to improve the code further.
+
+:EMOJICODE:🤝
+
+  
