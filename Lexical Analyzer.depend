@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732029483 source:d:\bsc cse\fall 2024  ( 8th semester)\cse 320 compiler lab\lexical analyzer\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
