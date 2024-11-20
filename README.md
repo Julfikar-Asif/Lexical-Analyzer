@@ -35,10 +35,12 @@ This program implements a simple lexical analyzer in C that processes an input s
 - **`isOperator(char c)`**: Checks if the character is a valid operator.
 - **`isNumber(char* str)`**: Validates integers and floating-point numbers.
 - **`isPunctuation(char c)`**: Identifies punctuation characters.
-- **`lex(char* input)`**: The core function that processes the input and classifies tokens.
+- **`lex(char* input)`**: The core function that processes the input and classifies tokens. 
 
 ### 2. **Main Function**
 - Reads input from the user.
 - Calls the `lex` function to analyze the input.
 
----
+## Run the program 
+- **`./lexical_analyzer`**
+
